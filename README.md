@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Monique 👋
+
+I've been a cartoon and pixel artist since 2014 with experience with editing software like Krita and Aseprite.
+I am a development student since 2021 and an academic in the second semester in Systems Analysis and Development
+- first participation in team game development event  ✨  ldjam.com  ✨
+- first work with packages with pixel art published on ✨  assetstore.unity.com  ✨
+- first project developed in react native guided by the teacher ✨  github.com/castrolol  ✨
+
+
 
 <!--
 **Rizzardd/Rizzardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
