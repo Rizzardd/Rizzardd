@@ -7,6 +7,33 @@ I am a development student since 2021 and an academic in the second semester in 
 - first project developed in react native guided by the teacher ✨ [castrolol](https://github.com/castrolol) ✨
 
 
+<section align="center"><h3>🌐 Conecte-se comigo:</h3> 
+  <a href="https://www.linkedin.com/in/monique-silva-166718247/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="25"            alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/pixelrizza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25"          alt="instagram logo"  />
+  </a>
+  <a href="rizzarddirizu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="38"             height="25" alt="microsoft-outlook logo"  />
+</section>
+
+---
+ 
+
+####
+
+
+<div align="center">
+<h3> Principais tecnologias e conhecimentos : <br> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+
+
+###
 
 <!--
 **Rizzardd/Rizzardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
