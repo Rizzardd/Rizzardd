@@ -14,8 +14,6 @@ I am a development student since 2021 and an academic in the second semester in 
   <a href="https://www.instagram.com/pixelrizza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="25"          alt="instagram logo"  />
   </a>
-  <a href="rizzarddirizu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="38"             height="25" alt="microsoft-outlook logo"  />
 </section>
 
 ---
