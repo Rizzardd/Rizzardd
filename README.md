@@ -2,8 +2,6 @@
 
 I've been a cartoon and pixel artist since 2014 with experience with editing software like Krita and Aseprite.
 I am a development student since 2021 and an academic in the second semester in Systems Analysis and Development
-- first participation in team game development event  ✨  [ldjam](https://ldjam.com/) ✨
-- first work with packages with pixel art published on ✨ [unity store](https://assetstore.unity.com/) ✨
 
 
 
